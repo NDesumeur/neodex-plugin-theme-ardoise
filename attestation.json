@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themeardoise",
+  "repo": "NDesumeur/neodex-plugin-theme-ardoise",
+  "version": "1.0.0",
+  "sha256": "16f8e02d8f1759f403a61736d5dd234ca1f612434ee022e22bc60d77cf42c3da",
+  "approvedAt": "2026-11-22T19:05:25.603Z",
+  "neobase": ">=4.1.0",
+  "signature": "kFXsuApHP8cK/ZY6UR+ERBvwk8/+9giv73xl/KYqV4BZaYuZrA6X28jhXc7k+aUYAbYkIzQlyz+vshO025cfCA=="
+}
