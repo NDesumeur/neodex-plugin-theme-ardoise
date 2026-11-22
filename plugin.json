@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themeardoise",
+  "name": "Thème Tableau noir",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Un vrai tableau noir d’école : traits à la craie blanche, rose et bleue, cadre en bois, traces de chiffon. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "ardoise",
+      "name": "Tableau noir",
+      "style": "ardoise",
+      "hue": 150,
+      "sat": 4,
+      "accent": "#f4f1e8",
+      "light": "#ffd1dc",
+      "third": "#9fd8ff",
+      "lift": 3,
+      "about": "Un vrai tableau noir d’école : traits à la craie blanche, rose et bleue, cadre en bois, traces de chiffon."
+    }
+  ]
+}
